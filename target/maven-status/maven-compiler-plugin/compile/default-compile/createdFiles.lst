@@ -1,0 +1,6 @@
+ir/mvbdx/library/dao/BookDAOImpl.class
+ir/mvbdx/library/entity/Book.class
+ir/mvbdx/library/controller/HomeController.class
+ir/mvbdx/library/dao/BookDAO.class
+ir/mvbdx/library/controller/BookController.class
+ir/mvbdx/library/entity/Author.class
